@@ -1,0 +1,86 @@
+.home {
+    margin-left: 130px;
+}
+.HotCoffee {
+    margin-left: 88px;
+}
+
+.writer {
+    margin-left: 89px;
+    margin-top: 42px;
+}
+.finibus {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    color: 800;
+    margin-left: 192px;
+    margin-top: 42px;
+    max-width: 765px;
+}
+.writtenby {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;  
+    margin-top: 19px;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #E8E8E8;
+}
+.monday {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px; 
+    color: rgba(113, 128, 150, 1);
+    padding-left: 20px;
+}
+.section_1 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;  
+    color: rgba(113, 128, 150, 1);
+}
+.translation {
+    margin-top: 20px;
+}
+.section_2 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px; 
+    margin-top: 20px;
+    padding-bottom: 20px;
+   color: rgba(45, 55, 72, 1)
+}
+.atvero {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;  
+    color: rgba(113, 128, 150, 1);  
+}
+.section_3 {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;  
+    color: rgba(45, 55, 72, 1);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.footer {
+    margin-top: 58px;
+}
+.atvero_2 {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;  
+    color: rgba(113, 128, 150, 1);   
+}
+.idtop {
+    position: fixed;
+    z-index: 9999;
+    height: 42px;
+    width: 42px;
+    bottom: 10%;
+    right: 3%;
+    color: #fff;
+    transition: .2s;
+    opacity: .8;
+}
